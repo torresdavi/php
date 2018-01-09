@@ -1,5 +1,7 @@
 <?php
 
-echo "Hello world! HUE";	
+  echo "Olá mundo! HUE";	
+
+  echo "Olá de novo!";
 
 ?>
